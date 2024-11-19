@@ -16,7 +16,2493 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.3.0",
-        "cells": [],
+        "cells": [
+          {
+            "position": {
+              "x": 689.5833333333329,
+              "y": 500
+            },
+            "size": {
+              "width": 448.0000000000002,
+              "height": 210
+            },
+            "attrs": {
+              "headerText": {
+                "text": "ОФФИС"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "6be5b522-00c8-407e-bf98-f2b2c3885bff",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "ОФФИС",
+              "description": "ОФФИС",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 350,
+              "y": 90
+            },
+            "size": {
+              "width": 1400,
+              "height": 656.25
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "7e2f3cd7-6687-45e1-a1c4-7e78e664945a",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 857.333333333333,
+              "y": 220
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Сүлжээний тоног \nтөхөөрөмж"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "94e1a5f8-3f1e-4ba5-bbe0-4a4dd9b7276b",
+            "zIndex": 2,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Сүлжээний тоног \nтөхөөрөмж",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 560,
+              "y": 200
+            },
+            "size": {
+              "width": 100,
+              "height": 100
+            },
+            "attrs": {
+              "text": {
+                "text": "Хамгаалалт"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "14b119d3-8cb5-4486-95c9-7e8051d1a318"
+                },
+                {
+                  "group": "right",
+                  "id": "a7d962c0-92c2-4203-9b68-7aa13d343973"
+                },
+                {
+                  "group": "bottom",
+                  "id": "4ccc7882-88f4-47c8-805e-bb4534468f4e"
+                },
+                {
+                  "group": "left",
+                  "id": "6a58f9b9-8a29-4e72-8b71-1ab9350ec4cb"
+                }
+              ]
+            },
+            "id": "9f7d83ff-5be5-4cd7-a8ce-02df9a4f16ef",
+            "zIndex": 3,
+            "data": {
+              "type": "tm.Process",
+              "name": "Хамгаалалт",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": [
+                {
+                  "id": "1e445f54-8b5b-4c8c-837d-fb022ea81f93",
+                  "title": "Хамгаалалтын системийг шинэчлэл дутуу хийгдэх. ",
+                  "status": "Mitigated",
+                  "severity": "Low",
+                  "type": "Tampering",
+                  "description": "Банкны системийн хамгаалалтын системийн эмзэг байдлыг шалгаж орох. ",
+                  "mitigation": "Банк нь системийн хамгаалалтын системийн  шинэчлэлтийг хагас жил бүр шинэчлэлтийг хийдэг, мөн ноцтой эмзэг байдал гарсан тохиолдолд тухай бүр нь хийдэг. Иймд системийн аюулгүй байдлын эмзэг байдал тохиолдолд шуурхай мэдээлэл олж авдаг байх. ",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 1,
+                  "score": ""
+                },
+                {
+                  "id": "1e445f54-8b5b-4c8c-837d-fb022ea81f93",
+                  "title": "DDoS халдлагад өртөх",
+                  "status": "Open",
+                  "severity": "Low",
+                  "type": "Denial of service",
+                  "description": "DDoS халдлага нь чиглэсэн байдлаар ирэх. DDoS халдлагаас хамгаалах системийн ачааллаас давсан хэмжээний халдлага орж ирэх.",
+                  "mitigation": "DDoS аюулгүй байдлын төхөөрөмжийн шинэчлэлтийг хийх. ",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 1,
+                  "score": ""
+                }
+              ],
+              "threatFrequency": {
+                "spoofing": 0,
+                "tampering": 1,
+                "repudiation": 0,
+                "informationDisclosure": 0,
+                "denialOfService": 1,
+                "elevationOfPrivilege": 0
+              }
+            }
+          },
+          {
+            "position": {
+              "x": 370,
+              "y": 620
+            },
+            "size": {
+              "width": 120,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Дата төв 1, 2, DR"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "f9321b1d-1d02-4a01-b4d6-d76d7836c831"
+                },
+                {
+                  "group": "right",
+                  "id": "c6c5e733-9234-422f-b91f-6b56569bda14"
+                },
+                {
+                  "group": "bottom",
+                  "id": "8c29a5f4-921f-4ce8-87f5-94340cebfdb9"
+                },
+                {
+                  "group": "left",
+                  "id": "15ed3118-5d22-4b1d-9038-5b74ece8078a"
+                }
+              ]
+            },
+            "id": "63ae70de-8d76-4dab-8262-4ddd6e40eecb",
+            "zIndex": 4,
+            "data": {
+              "type": "tm.Store",
+              "name": "Дата төв 1, 2, DR",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 1430,
+              "y": 567.3333333333333
+            },
+            "size": {
+              "width": 310,
+              "height": 165.33333333333337
+            },
+            "attrs": {
+              "text": {
+                "text": "Хамгаалалт: \n1. DDoS Protection\n2. WAF\n3.NGFW\n4. Secure email gateway\n5. Endpoint Detection Response (EDR)\n4. PAM\n5. SIEM\n6. FIM"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "b177a363-e12f-420b-8696-cdb64c0cdf00",
+            "zIndex": 5,
+            "data": {
+              "type": "tm.Text",
+              "name": "Хамгаалалт: \n1. DDoS Protection\n2. WAF\n3.NGFW\n4. Secure email gateway\n5. Endpoint Detection Response (EDR)\n4. PAM\n5. SIEM\n6. FIM",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Secure connection",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              "Secure connection"
+            ],
+            "id": "c9b72b04-fc09-4858-89c4-be791b77f5f7",
+            "source": {
+              "x": 310,
+              "y": 140
+            },
+            "target": {
+              "cell": "9f7d83ff-5be5-4cd7-a8ce-02df9a4f16ef",
+              "port": "6a58f9b9-8a29-4e72-8b71-1ab9350ec4cb"
+            },
+            "vertices": [
+              {
+                "x": 420,
+                "y": 180
+              },
+              {
+                "x": 450,
+                "y": 180
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "VPN (IPSec)",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              "VPN (IPSec)"
+            ],
+            "id": "57e8f770-d6d1-4093-a4a7-9856e918af41",
+            "source": {
+              "x": 320,
+              "y": 370
+            },
+            "target": {
+              "cell": "9f7d83ff-5be5-4cd7-a8ce-02df9a4f16ef",
+              "port": "6a58f9b9-8a29-4e72-8b71-1ab9350ec4cb"
+            },
+            "vertices": [
+              {
+                "x": 430,
+                "y": 330
+              },
+              {
+                "x": 450,
+                "y": 330
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Secure connection ",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              "Secure connection "
+            ],
+            "id": "e04a3fda-5d2a-4058-8430-0334d739fbdd",
+            "source": {
+              "cell": "0327599e-c92a-4d2b-bc52-50429ac9e4a1",
+              "port": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+            },
+            "target": {
+              "cell": "9f7d83ff-5be5-4cd7-a8ce-02df9a4f16ef",
+              "port": "6a58f9b9-8a29-4e72-8b71-1ab9350ec4cb"
+            },
+            "vertices": [
+              {
+                "x": 360,
+                "y": 270
+              },
+              {
+                "x": 450,
+                "y": 270
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              {
+                "attrs": {
+                  "label": {
+                    "text": "Data Flow"
+                  }
+                }
+              }
+            ],
+            "id": "ece479e9-96b8-46d5-8fff-a61c4ce0b52d",
+            "source": {
+              "cell": "c766e140-1180-4e7f-a9bf-f39f9d4dd8fe",
+              "port": "4ccc7882-88f4-47c8-805e-bb4534468f4e"
+            },
+            "target": {
+              "cell": "6487890e-8fce-46d9-8d3a-a980957a66b0",
+              "port": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+            },
+            "vertices": [
+              {
+                "x": 864,
+                "y": 470
+              },
+              {
+                "x": 814,
+                "y": 510
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              {
+                "attrs": {
+                  "label": {
+                    "text": "Data Flow"
+                  }
+                }
+              }
+            ],
+            "id": "e2b14620-7548-4cd1-927a-cd3532818aa1",
+            "source": {
+              "cell": "c766e140-1180-4e7f-a9bf-f39f9d4dd8fe",
+              "port": "4ccc7882-88f4-47c8-805e-bb4534468f4e"
+            },
+            "target": {
+              "cell": "4084e4b3-558f-40c2-845a-59411076d9f4",
+              "port": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+            }
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "labels": [
+              {
+                "attrs": {
+                  "label": {
+                    "text": "Trust Boundary"
+                  }
+                }
+              }
+            ],
+            "id": "d84c4cd3-b7e5-4217-8e52-ac6ad21871c7",
+            "source": {
+              "cell": "8007e2c9-33ca-41eb-83ed-655aa64bf5ce",
+              "port": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+            },
+            "target": {
+              "cell": "00489fa1-8528-4a29-9884-21083bdb5080",
+              "port": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+            },
+            "vertices": [
+              {
+                "x": 1310,
+                "y": 240
+              },
+              {
+                "x": 1410,
+                "y": 180
+              }
+            ]
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "labels": [
+              {
+                "attrs": {
+                  "label": {
+                    "text": "Trust Boundary"
+                  }
+                }
+              }
+            ],
+            "id": "a7efe390-919f-441a-9356-9a4f29c8a4e3",
+            "source": {
+              "x": 1337,
+              "y": 290
+            },
+            "target": {
+              "cell": "20c11773-3335-4a68-818a-700718aee87c",
+              "port": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+            },
+            "vertices": []
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "labels": [
+              {
+                "attrs": {
+                  "label": {
+                    "text": "Trust Boundary"
+                  }
+                }
+              }
+            ],
+            "id": "20c0f07b-acb6-4d43-a09f-7a7578e35264",
+            "source": {
+              "x": 1280,
+              "y": 320
+            },
+            "target": {
+              "cell": "7fb4fd1f-b9c2-4b56-b7c0-8bf43fa5a1ba",
+              "port": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "VPN (IPSec)",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              "VPN (IPSec)"
+            ],
+            "id": "37f4576a-cb3f-490a-a234-4097de43e9e6",
+            "source": {
+              "cell": "9c7ad1dc-bbb3-4826-b030-30bad03d84fd",
+              "port": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+            },
+            "target": {
+              "cell": "9f7d83ff-5be5-4cd7-a8ce-02df9a4f16ef",
+              "port": "4ccc7882-88f4-47c8-805e-bb4534468f4e"
+            },
+            "vertices": [
+              {
+                "x": 460,
+                "y": 390
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Connection",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              "Connection"
+            ],
+            "id": "dbe6c782-6e6a-46f8-81f2-bfd8b80eab00",
+            "source": {
+              "cell": "94e1a5f8-3f1e-4ba5-bbe0-4a4dd9b7276b",
+              "port": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+            },
+            "target": {
+              "cell": "8007e2c9-33ca-41eb-83ed-655aa64bf5ce",
+              "port": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+            },
+            "vertices": [
+              {
+                "x": 1010,
+                "y": 320
+              },
+              {
+                "x": 1060,
+                "y": 320
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Secure connection (TLS)",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              "Secure connection (TLS)"
+            ],
+            "id": "3158e03b-9e19-40fc-b5b5-e0bbea5445d6",
+            "source": {
+              "cell": "9f7d83ff-5be5-4cd7-a8ce-02df9a4f16ef",
+              "port": "a7d962c0-92c2-4203-9b68-7aa13d343973"
+            },
+            "target": {
+              "cell": "94e1a5f8-3f1e-4ba5-bbe0-4a4dd9b7276b",
+              "port": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+            },
+            "vertices": []
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "labels": [
+              {
+                "attrs": {
+                  "label": {
+                    "text": "Data Flow"
+                  }
+                }
+              }
+            ],
+            "id": "d1426038-4f97-4aac-acf4-c5df03b456f4",
+            "source": {
+              "cell": "94e1a5f8-3f1e-4ba5-bbe0-4a4dd9b7276b",
+              "port": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+            },
+            "target": {
+              "cell": "c766e140-1180-4e7f-a9bf-f39f9d4dd8fe",
+              "port": "14b119d3-8cb5-4486-95c9-7e8051d1a318"
+            },
+            "vertices": [
+              {
+                "x": 850,
+                "y": 320
+              }
+            ]
+          },
+          {
+            "position": {
+              "x": 200,
+              "y": 110
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Харилцагч"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "bd0292da-f5f6-408e-91b4-53050c32e3ee",
+            "zIndex": 11,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Харилцагч",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 200,
+              "y": 220
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Хакер"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "0327599e-c92a-4d2b-bc52-50429ac9e4a1",
+            "zIndex": 12,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Хакер",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 200,
+              "y": 340
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Гуравдагч тал"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "6c395a2f-f42b-431d-b779-12a06f55780b",
+            "data": {
+              "type": "tm.Actor",
+              "name": "Гуравдагч тал",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 13
+          },
+          {
+            "position": {
+              "x": 1512.5,
+              "y": 150
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Монгол банк"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "00489fa1-8528-4a29-9884-21083bdb5080",
+            "data": {
+              "type": "tm.Actor",
+              "name": "Монгол банк",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 14
+          },
+          {
+            "position": {
+              "x": 1512.5,
+              "y": 260
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Банк хооронд"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "20c11773-3335-4a68-818a-700718aee87c",
+            "data": {
+              "type": "tm.Actor",
+              "name": "Банк хооронд",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 15
+          },
+          {
+            "position": {
+              "x": 1512.5,
+              "y": 374
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Олон улсын банк"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "7fb4fd1f-b9c2-4b56-b7c0-8bf43fa5a1ba",
+            "data": {
+              "type": "tm.Actor",
+              "name": "Олон улсын банк",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 16
+          },
+          {
+            "position": {
+              "x": 1116.9166666666665,
+              "y": 250
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Сервер, \nӨгөгдлийн \nсан"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "8007e2c9-33ca-41eb-83ed-655aa64bf5ce",
+            "data": {
+              "type": "tm.Actor",
+              "name": "Сервер, \nӨгөгдлийн \nсан",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 17
+          },
+          {
+            "position": {
+              "x": 758,
+              "y": 530
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Ажилтан"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "6487890e-8fce-46d9-8d3a-a980957a66b0",
+            "zIndex": 18,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Ажилтан",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 1010,
+              "y": 530
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Удирдах ажилтан"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "4084e4b3-558f-40c2-845a-59411076d9f4",
+            "data": {
+              "type": "tm.Actor",
+              "name": "Удирдах ажилтан",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 19
+          },
+          {
+            "position": {
+              "x": 200,
+              "y": 440
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Зайны \nажилтан\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "dbbf8249-69f5-4493-8f42-e6c3dd6d17ce"
+                },
+                {
+                  "group": "right",
+                  "id": "9c2da956-dc5e-4e1e-99a0-0b29da92f018"
+                },
+                {
+                  "group": "bottom",
+                  "id": "e8481f51-4ea1-4890-a279-e79ed95d08f0"
+                },
+                {
+                  "group": "left",
+                  "id": "a83f8d6a-796e-47e6-8b41-5b4f6874c747"
+                }
+              ]
+            },
+            "id": "9c7ad1dc-bbb3-4826-b030-30bad03d84fd",
+            "data": {
+              "type": "tm.Actor",
+              "name": "Зайны \nажилтан\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 20
+          },
+          {
+            "position": {
+              "x": 863.583333333333,
+              "y": 340
+            },
+            "size": {
+              "width": 100,
+              "height": 100
+            },
+            "attrs": {
+              "text": {
+                "text": "Хамгаалалт"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "14b119d3-8cb5-4486-95c9-7e8051d1a318"
+                },
+                {
+                  "group": "right",
+                  "id": "a7d962c0-92c2-4203-9b68-7aa13d343973"
+                },
+                {
+                  "group": "bottom",
+                  "id": "4ccc7882-88f4-47c8-805e-bb4534468f4e"
+                },
+                {
+                  "group": "left",
+                  "id": "6a58f9b9-8a29-4e72-8b71-1ab9350ec4cb"
+                }
+              ]
+            },
+            "id": "c766e140-1180-4e7f-a9bf-f39f9d4dd8fe",
+            "data": {
+              "type": "tm.Process",
+              "name": "Хамгаалалт",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": [
+                {
+                  "id": "1e445f54-8b5b-4c8c-837d-fb022ea81f93",
+                  "title": "Хамгаалалтын системийг шинэчлэл дутуу хийгдэх. ",
+                  "status": "Mitigated",
+                  "severity": "Low",
+                  "type": "Tampering",
+                  "description": "Банкны системийн хамгаалалтын системийн эмзэг байдлыг шалгаж орох. ",
+                  "mitigation": "Банк нь системийн хамгаалалтын системийн  шинэчлэлтийг хагас жил бүр шинэчлэлтийг хийдэг, мөн ноцтой эмзэг байдал гарсан тохиолдолд тухай бүр нь хийдэг. Иймд системийн аюулгүй байдлын эмзэг байдал тохиолдолд шуурхай мэдээлэл олж авдаг байх. ",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 1,
+                  "score": ""
+                },
+                {
+                  "id": "1e445f54-8b5b-4c8c-837d-fb022ea81f93",
+                  "title": "DDoS халдлагад өртөх",
+                  "status": "Open",
+                  "severity": "Low",
+                  "type": "Denial of service",
+                  "description": "DDoS халдлага нь чиглэсэн байдлаар ирэх. DDoS халдлагаас хамгаалах системийн ачааллаас давсан хэмжээний халдлага орж ирэх.",
+                  "mitigation": "DDoS аюулгүй байдлын төхөөрөмжийн шинэчлэлтийг хийх. ",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 1,
+                  "score": ""
+                }
+              ],
+              "threatFrequency": {
+                "spoofing": 0,
+                "tampering": 1,
+                "repudiation": 0,
+                "informationDisclosure": 0,
+                "denialOfService": 1,
+                "elevationOfPrivilege": 0
+              }
+            },
+            "zIndex": 21
+          },
+          {
+            "position": {
+              "x": 870.5,
+              "y": 610
+            },
+            "size": {
+              "width": 120,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Оффисууд"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "f9321b1d-1d02-4a01-b4d6-d76d7836c831"
+                },
+                {
+                  "group": "right",
+                  "id": "c6c5e733-9234-422f-b91f-6b56569bda14"
+                },
+                {
+                  "group": "bottom",
+                  "id": "8c29a5f4-921f-4ce8-87f5-94340cebfdb9"
+                },
+                {
+                  "group": "left",
+                  "id": "15ed3118-5d22-4b1d-9038-5b74ece8078a"
+                }
+              ]
+            },
+            "id": "ce81f1c3-aac5-41be-b8ba-ea1ee051ca7e",
+            "data": {
+              "type": "tm.Store",
+              "name": "Оффисууд",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            },
+            "zIndex": 22
+          }
+        ],
         "description": "asd"
       }
     ],
